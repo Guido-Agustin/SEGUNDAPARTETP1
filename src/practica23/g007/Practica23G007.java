@@ -8,6 +8,20 @@ package practica23.g007;
  *
  * @author gabri
  */
+
+/*
+Clase Empleado ---- Atributos (mail, clave, nombre, apellido) 
+----- metodos (mostrar
+Clase Encargado ---- Atributos (mail, clave, nombre, apellido) 
+----- metodos (mostrar
+Clase Cliente ---- Atributos (mail, clave, nombre, apellido) 
+----- metodos (mostrar, consulta, agregar, quitar)
+Clase Producto ---- Atributos (nombre, descripcion, precio, estado, tipo) 
+----- metodos (mostrar
+
+*/
+
+
 public class Practica23G007 {
 
     /**
